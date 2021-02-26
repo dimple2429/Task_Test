@@ -17,7 +17,7 @@ Concepts used in the app:
 5.       Constraint Layout
 6.       Code Language : Java
 
-Main Screen :
+Screenshots:
 
 <image src= "https://github.com/dimple2429/Task_test/blob/master/Screenshots/Login%20Screen.png" width = "300" height= "600"/>    <image src= "https://github.com/dimple2429/Task_test/blob/master/Screenshots/Api%20call.png" width = "300" height= "600"/>    <image src= "https://github.com/dimple2429/Task_test/blob/master/Screenshots/dashboard.png" width = "300" height= "600"/>     <image src= "https://github.com/dimple2429/Task_test/blob/master/Screenshots/notification.png" width = "300" height= "600"/>    <image src= "https://github.com/dimple2429/Task_test/blob/master/Screenshots/logout%20tab.png" width = "300" height= "600"/>    <image src= "https://github.com/dimple2429/Task_test/blob/master/Screenshots/logout%20screen.png" width = "300" height= "600"/>    <image src= "https://github.com/dimple2429/Task_test/blob/master/Screenshots/back%20to%20login.png" width = "300" height= "600"/>     
 
